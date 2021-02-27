@@ -1,0 +1,23 @@
+{
+  "name": "bind.mjs",
+  "version": "1.0.0",
+  "description": "It's just the ES6 module version of bind.js",
+  "main": "src/bind.mjs/Bind.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaack/bind.mjs.git"
+  },
+  "keywords": [
+    "bind.js",
+    "es6"
+  ],
+  "author": "Stefan Haack (shaack.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaack/bind.mjs/issues"
+  },
+  "homepage": "https://github.com/shaack/bind.mjs#readme"
+}
