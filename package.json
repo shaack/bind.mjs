@@ -2,7 +2,7 @@
   "name": "bind.mjs",
   "version": "1.0.0",
   "description": "It's just the ES6 module version of bind.js",
-  "main": "src/bind.mjs/Bind.mjs",
+  "main": "src/bind.mjs/Bind.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
