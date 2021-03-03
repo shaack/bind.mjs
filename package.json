@@ -1,6 +1,6 @@
 {
   "name": "bind.mjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It's just the ES6 module version of bind.js",
   "main": "src/bind.mjs/Bind.js",
   "scripts": {
